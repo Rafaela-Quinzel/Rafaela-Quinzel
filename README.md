@@ -80,7 +80,7 @@
 <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> -->
-<p align="left" style="margin: 5px">
+<p align="left" style="margin-top: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true" alt="rafaquinzel"/> 
 </p>
 <!--
