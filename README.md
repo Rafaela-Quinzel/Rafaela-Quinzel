@@ -21,7 +21,7 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
-<code>
+<div  style="margin: 5px">
 <span> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 5px"/> </a>
 </span>
@@ -37,7 +37,7 @@
 <sapn>
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin: 5px;"/>
 </span>
-  </code>
+</div>
 <br/>
   
 <span>
