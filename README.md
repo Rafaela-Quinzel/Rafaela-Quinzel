@@ -14,15 +14,14 @@
 
 - 💬 Um pouco sobre mim **Sou ilustradora e uma pessoa apaixonada por tecnologia. Tenho um perfil colaborativo, comprometido e dinâmico, sempre buscando novos conhecimentos.**
 
-- 📫 Meus contatos
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelaquinzel@gmail.com)](mailto:rafaelaquinzel@gmail.com)
+- 📫 Meus contatos<br/>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelaquinzel@gmail.com)](mailto:rafaelaquinzel@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaela-quinzel-008799132/)](https://www.linkedin.com/in/rafaela-quinzel-008799132/)
 
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <code>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 5%"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding: 5%"/> </a>
 </code>
 <code>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 4px"/> </a> 
