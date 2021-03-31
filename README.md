@@ -8,7 +8,8 @@
 
 - 🤝 Estou procurando oportunidades **com desafios para me aprimorar e evoluir.**
 
-- 💬 Um pouco sobre mim **Sou ilustradora e uma pessoa apaixonada por tecnologia. Tenho um perfil colaborativo, comprometido e dinâmico, sempre buscando novos conhecimentos.**
+- 💬 Um pouco sobre mim 
+- **Sou ilustradora e uma pessoa apaixonada por tecnologia. Tenho um perfil colaborativo, comprometido e dinâmico, sempre buscando novos conhecimentos.**
 
 - 📫 Meus contatos<br/>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelaquinzel@gmail.com)](mailto:rafaelaquinzel@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaela-quinzel-008799132/)](https://www.linkedin.com/in/rafaela-quinzel-008799132/)
