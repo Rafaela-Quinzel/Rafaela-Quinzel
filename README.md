@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaela-quinzel&label=Profile%20views&color=0e75b6&style=flat" alt="rafaquinzel" /> </p>
 
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos muito legais no curso da Labenu! <img src = "https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" width = "24px" alt = "Labenu logo" />
-
-- 🌱 Estou finalizando o curso **da Labenu com mais de 1000 horas de atividades, incluindo aulas, exercícios diários, projetos, palestras e atualizações do mercado.**
+- 🌱 Finalizei o curso **da Labenu com mais de 1000 horas de atividades, incluindo aulas, exercícios diários, projetos, palestras e atualizações do mercado.**<img src = "https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" width = "24px" alt = "Labenu logo" />
 
 - 🤝 Estou procurando oportunidades **com desafios para me aprimorar e evoluir.**
-
-- 👨‍💻 Meus projetos estão disponíveis em [portfolio em construção](portfolio em construção)
 
 - 💬 Um pouco sobre mim **Sou ilustradora e uma pessoa apaixonada por tecnologia. Tenho um perfil colaborativo, comprometido e dinâmico, sempre buscando novos conhecimentos.**
 
@@ -86,6 +82,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true" alt="rafaquinzel" style="margin-top: 10px"/> 
 </p>
 <!--
+- 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos no curso da Labenu! 
+- 👨‍💻 Meus projetos estão disponíveis em [portfolio em construção](portfolio em construção)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
