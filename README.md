@@ -55,8 +55,8 @@
 </div>
 <br/>
 
-<div  style="margin: 2px" width="50" height="40">
-<span style="margin-right: 5%">
+<div  style="margin: 2px">
+<span width="50" height="40" style="margin-right: 5%">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.dicastech.net/wp-content/uploads/2020/02/22153657/vscode.png" alt="illustrator" width="40" height="40" style="margin-right: 5%" align="center"/> </a>
 </span>
 <span width="50" height="40" style="margin-right: 5%">
