@@ -74,8 +74,8 @@
 </div>
 <br />
 <div align="left" style="display: inline_block; margin-top: 2%">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="rafaquinzel" height="180em"/> 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" style="margin-left: 5%" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="rafaquinzel" height="180em" style="margin-right: 10%"/> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" height="180em" />
 </div>
 
 
