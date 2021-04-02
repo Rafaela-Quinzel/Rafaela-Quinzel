@@ -72,27 +72,10 @@
 <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40" style="margin: 20px"/> </a>
 </span>
 </div>
-<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  -->
-<!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> -->
-
 <br />
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true" alt="rafaquinzel" style="margin-top: 10px"/> 
-</p>
-<!--
-- 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos no curso da Labenu! 
-- 👨‍💻 Meus projetos estão disponíveis em [portfolio em construção](portfolio em construção)
-Here are some ideas to get you started:
+<div align="left" style="display: inline_block; margin-top: 2%">
+<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="rafaquinzel" height="180em"/> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" style="margin-left: 2%" height="180em" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
