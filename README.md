@@ -31,7 +31,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="40" style="margin-right: 5%" align="center"/> </a>
 </span>
 <sapn>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="40" style="margin-right: 5%" align="center"/>
+<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin-right: 5%" align="center"/>
 </span>
 </div>
 <br/>
@@ -57,10 +57,10 @@
 
 <div  style="margin: 2px">
 <span>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.dicastech.net/wp-content/uploads/2020/02/22153657/vscode.png" alt="illustrator" width="50" height="40" style="margin-right: 5%" align="center"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.dicastech.net/wp-content/uploads/2020/02/22153657/vscode.png" alt="illustrator" width="40" height="40" style="margin-right: 5%" align="center"/> </a>
 </span>
 <span>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="40" style="margin-right: 5%" align="center"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 5%" align="center"/> </a>
 </span>
 <span>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="40" style="margin-right: 5%" align="center"/> </a>
@@ -75,7 +75,7 @@
 <br />
 <div align="left" style="display: inline_block; margin-top: 2%">
 <img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="rafaquinzel" height="180em"/> 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" style="margin-left: 2%" height="180em" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" style="margin-left: 5%" height="180em" />
 </div>
 
 
