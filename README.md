@@ -57,10 +57,10 @@
 
 <div  style="margin: 2px">
 <span>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.dicastech.net/wp-content/uploads/2020/02/22153657/vscode.png" alt="illustrator" width="45" height="40" style="margin-right: 5%" align="center"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.dicastech.net/wp-content/uploads/2020/02/22153657/vscode.png" alt="illustrator" width="50" height="45" style="margin-right: 5%" align="center"/> </a>
 </span>
 <span>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="40" style="margin-right: 5%" align="center"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="45" style="margin-right: 5%" align="center"/> </a>
 </span>
 <span>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="40" style="margin-right: 5%" align="center"/> </a>
