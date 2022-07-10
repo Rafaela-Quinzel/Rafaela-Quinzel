@@ -1,4 +1,4 @@
-<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, eu sou a Rafaela</h1>
+<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, eu sou a Rafaela</h1>
 <h3 align="center">Desenvolvedora Web Full Stack Júnior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaela-quinzel&label=Profile%20views&color=0e75b6&style=flat" alt="rafaquinzel" /> </p>
@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Tecnologias:</h3>
 
 <div  style="margin: 2px">
 <span> 
