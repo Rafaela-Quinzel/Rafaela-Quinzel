@@ -1,4 +1,4 @@
-<h1 align="center">Olá<img src="https://images.emojiterra.com/google/noto-emoji/animated/1f44b.webp" width="40" height="40"/>, eu sou a Rafaela</h1>
+<h1 align="center">Olá<img src="https://images.emojiterra.com/google/noto-emoji/animated/1f44b.webp" width="40" height="40" align="center"/>, eu sou a Rafaela</h1>
 <h3 align="center">Desenvolvedora Web Full Stack Júnior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaela-quinzel&label=Profile%20views&color=0e75b6&style=flat" alt="rafaquinzel" /> </p>
