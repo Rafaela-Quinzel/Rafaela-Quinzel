@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated/1f44b.webp" width="40" height="40" align="center"/> Olá, eu sou a Rafaela</h1>
-<h3 align="center">Desenvolvedora Web Full Stack Júnior</h3>
+<h3 align="center">Desenvolvedora Web Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaela-quinzel&label=Profile%20views&color=0e75b6&style=flat" alt="rafaquinzel" /> </p>
 
