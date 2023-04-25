@@ -74,9 +74,7 @@
 </div>
 <br />
 <div align="left" style="display: inline_block; margin-top: 2%">
-  #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula" alt="github stats" width="45%"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel" height="180em" />
 </div>
 
