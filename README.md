@@ -82,6 +82,6 @@
 </div>
 <br />
 
-![Snake animation](https://github.com/Rafaela-Quinzel/Rafaela-Quinzel)
+![Snake animation](https://github.com/rafaela-quinzel/rafaela-quinzel/blob/output/github-contribution-grid-snake.svg)
 
 
