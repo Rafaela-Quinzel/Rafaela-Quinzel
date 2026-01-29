@@ -84,8 +84,8 @@
 <br />
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .8rem; justify-items: center; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Rafaela-Quinzel&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaela-Quinzel&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafaela-Quinzel&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200&v=1" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafaela-Quinzel&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=7200&v=1" alt="Top Languages"/>
 </div>
 <br />
 
