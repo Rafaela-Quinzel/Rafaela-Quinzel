@@ -35,6 +35,8 @@
 
 <div align="center" style="grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));">
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&labelColor=ffffff&logoColor=61DAFB" alt="react"></a>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/react%20native-61DAFB.svg?style=for-the-badge&logo=react&labelColor=ffffff&logoColor=61DAFB" alt="reactnative"></a>
+<a href="https://nextjs.org/docs/"><img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&labelColor=ffffff&logoColor=000000" alt="nextjs"></a>
 <a href="https://angular.io/docs/"><img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&labelColor=ffffff&logoColor=DD0031" alt="angular"></a>
 <a href="https://ionic.io/docs/"><img src="https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&labelColor=ffffff&logoColor=3880FF" alt="ionic"></a>
 </div>
@@ -44,23 +46,28 @@
 <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&labelColor=ffffff&logoColor=3C873A" alt="nodejs"/></a>
 <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://img.shields.io/badge/MONGODB-47A248.svg?style=for-the-badge&logo=mongodb&labelColor=ffffff&logoColor=47A248" alt="mongodb"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&labelColor=ffffff&logoColor=4479A1" alt="mysql"></a>
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&labelColor=ffffff&logoColor=4169E1" alt="postgresql"></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&labelColor=ffffff&logoColor=000000" alt="express"></a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&labelColor=ffffff&logoColor=C21325" alt="jest"/>
+<a href="https://vitest.dev" target="_blank"> <img src="https://img.shields.io/badge/vitest-6E9F18.svg?style=for-the-badge&logo=vitest&labelColor=ffffff&logoColor=6E9F18" alt="vitest"/>
 </div>
 
 ---
 
 <div align="center" style="grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));">
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&labelColor=ffffff&logoColor=F05032" alt="git"/></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&labelColor=ffffff&logoColor=FC6D26" alt="gitlab"/></a>
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&labelColor=ffffff&logoColor=2496ED" alt="docker"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"/></a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&labelColor=ffffff&logoColor=FF6C37" alt="postman"/></a>
+<a href="https://insomnia.rest/" target="_blank"> <img src="https://img.shields.io/badge/insomnia-5849BE.svg?style=for-the-badge&logo=insomnia&labelColor=ffffff&logoColor=5849BE" alt="insomnia"/></a>
 </div>
 
 ---
 
 <div align="center" style="grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));">
 <a href="https://heroku.com" target="_blank"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&labelColor=ffffff&logoColor=430098" alt="heroku"/></a>
+<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&labelColor=ffffff&logoColor=00C7B7" alt="netlify"/></a>
 </div>
 
 ---
@@ -77,11 +84,11 @@
 <br />
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .8rem; justify-items: center; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaela-quinzel&show_icons=true&theme=darcula" alt="github stats"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaela-quinzel&layout=compact&langs_count=8&theme=darcula" alt="rafaquinzel"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rafaela-Quinzel&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaela-Quinzel&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 <br />
 
-![Snake animation](https://github.com/rafaela-quinzel/rafaela-quinzel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rafaela-Quinzel/Rafaela-Quinzel/output/github-contribution-grid-snake.svg)
 
 
